@@ -16,7 +16,7 @@ Run the code inside the compiler to execute the program
 5.	cart.txt to store the books that selected by user
 
 ## Team Members:
-1.	1211207735 See Chwan Kai
-2.	1211208688 Tee Kian Hao
-3.	1211211485 Kho Wei Cong
-4.	1211208756 Tee Chin Yean
+1.	See Chwan Kai
+2.	Tee Kian Hao
+3.	Kho Wei Cong
+4.	Tee Chin Yean
