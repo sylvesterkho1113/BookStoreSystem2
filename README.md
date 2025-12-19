@@ -14,3 +14,9 @@ Run the code inside the compiler to execute the program
 3.	orders.txt to store orders total and status
 4.	orderdetails.txt to store placed items and quantity for each order
 5.	cart.txt to store the books that selected by user
+
+## Team Members:
+1.	1211207735 See Chwan Kai
+2.	1211208688 Tee Kian Hao
+3.	1211211485 Kho Wei Cong
+4.	1211208756 Tee Chin Yean
