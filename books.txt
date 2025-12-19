@@ -1,0 +1,41 @@
+1010 "CS Algorithms" "Sophie K." 16.25 25.5 "World of CS" 14 0
+1012 "Forgotten Realms" "John D." 15.99 29.99 "An epic adventure" 20 0
+1013 "Galactic Voyage" "Amanda P." 12.5 24.99 "Journey through stars" 18 0
+1014 "Digital Dreams" "Michael Z." 10.75 22.5 "Exploring the virtual world" 25 0
+1015 "Whispering Shadows" "Emily K." 8.99 19.99 "A tale of mystery" 30 0
+1016 "Ocean's Depths" "Samuel L." 13.45 27.99 "Diving into the unknown" 15 0
+1017 "Ancient Legends" "Isabella R." 14.95 31.99 "Stories of civilizations" 10 0
+1018 "Echoes of Time" "David N." 11.5 23.99 "A journey through history" 22 0
+1019 "Silent Reflections" "Olivia J." 9.99 21.99 "Contemplations of the mind" 18 0
+1020 "Mystic Horizons" "Sophia M." 16.5 33.0 "Exploring mystical lands" 12 0
+1021 "Lost in Space" "Ethan B." 17.75 35.99 "An astronaut's adventure" 14 0
+1022 "Wonders of Nature" "Emma T." 10.99 22.5 "Exploring natural wonders" 25 0
+1023 "Infinite Possible" "Liam C." 12.25 26.5 "Unlocking potential" 20 0
+1024 "Celestial Harmony" "Ava G." 13.99 28.99 "Harmony among the stars" 17 0
+1025 "Code of the Future" "Mason H." 15.45 30.5 "Programming for tomorrow" 19 0
+1026 "Rising Phoenix" "Mia V." 11.99 24.99 "A story of rebirth" 23 0
+1027 "Hidden Treasures" "William F." 14.5 29.99 "Discovering buried secrets" 16 0
+1028 "Galactic Empire" "Charlotte Y." 17.0 34.99 "The rise of an empire" 11 0
+1029 "Mystic Waters" "James K." 12.75 25.99 "Mysteries of the deep sea" 13 0
+1030 "Journey to Infinity" "Ella D." 10.5 21.99 "Exploring possibilities" 24 0
+1031 "Secret Worlds" "Lucas S." 13.25 27.5 "Uncovering hidden realms" 21 0
+1032 "Tech Revolution" "Benjamin A." 15.0 31.0 "The future of technology" 20 0
+1033 "Celestial Beings" "Zoe L." 11.75 23.99 "Life among stars" 22 0
+1034 "Quantum Leap" "Alexander P." 14.99 30.0 "Advancements in quantum tech" 18 0
+1035 "Whispering Winds" "Harper N." 9.5 19.99 "A tale of nature's power" 27 0
+1036 "Silent Night" "Daniel W." 16.25 32.99 "A quiet, reflective story" 15 0
+1037 "Beyond the Horizon" "Madison Q." 13.5 28.5 "Exploring the unknown" 16 0
+1038 "Future Frontiers" "Logan J." 12.0 24.99 "Pioneering new worlds" 19 0
+1039 "Echoes of Eternity" "Abigail R." 11.99 25.99 "A story of timeless love" 20 0
+1040 "Shadow of the Past" "Elijah T." 14.25 29.5 "Dealing with ghosts" 14 0
+1009 "Code Chronicles" "Ryan M." 28.75 42.99 "Adventures in Programming" 7 0
+1007 "Quantum Quest" "Alex H." 19.99 29.99 "Into Quantum Physics" 10 0
+1006 "Dusk's Embrace" "Shakesphere" 5.4 10.9 "The story of Dusk" 23 0
+1001 "Math for numb" "Jessica S." 8.69 14.99 "A book for beginner" 15 0
+1003 "Eternal Embers" "Tan SF" 14 21.3 "Great for kids" 13 1
+1005 "Intro to IT" "Lim YQ" 14.8 24.6 "Fundamentals of IT" 8 1
+1008 "Solar Serenade" "Eva L." 12.5 18.75 "Exploring the Sun" 13 2
+1011 "Harmony of Numbers" "Daniel W." 9.99 15.99 "Finding Balance in Math" 1 19
+1004 "Astral Echoes" "Simon S." 35.4 49.9 "New arrival" 13 5
+1002 "Mystic Meadows" "Tom De Brune" 21.85 39.9 "Best Myterious Novel" 8 4
+1041 "wc" "Eva L." 55 60 "wc" 12 0

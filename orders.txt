@@ -1,0 +1,8 @@
+2008 "Kian Hao" 119.88 191.88 "Preparing"
+2007 "Chin Yean" 216.93 300.93 "Preparing"
+2006 "Wei Cong" 398.93 577.83 "Order placed"
+2001 "Chin Yean" 14 21.3 "Delivered"
+2002 "Wei Cong" 39.8 62.1 "Delivered"
+2003 "Chin Yean" 19.98 31.98 "Order placed"
+2004 "Wei Cong" 116.19 165.69 "Order placed"
+2005 "Kian Hao" 105.51 183.66 "Delivered"
